@@ -1,4 +1,4 @@
-#integration with Github using SAS Viya AI Platform
+<h1>integration with Github using SAS Viya AI Platform</h1>
 
 SAS Studio includes integration with Git, a system for tracking changes and managing version control among multiple users. Git can be used with many different repository hosting services such as GitHub and BitBucket.
 
